@@ -1,5 +1,5 @@
 # Atomium AI
-
+> **Warning:** This project is currently hidden.
 ## Overview
 Atomium AI is a cutting-edge web application that empowers users to create high-quality YouTube videos from images and YouTube links. Utilizing the robust capabilities of Next.js and Go, Atomium AI harnesses the power of large language models (LLMs) to deliver superior content results. The platform also integrates Stripe for seamless token purchases, enhancing user interaction and experience.
 
