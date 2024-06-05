@@ -1,22 +1,47 @@
-# Atomium AI
-> **Warning:** This project is currently hidden.
-## Overview
-Atomium AI is a cutting-edge web application that empowers users to create high-quality YouTube videos from images and YouTube links. Utilizing the robust capabilities of Next.js and Go, Atomium AI harnesses the power of large language models (LLMs) to deliver superior content results. The platform also integrates Stripe for seamless token purchases, enhancing user interaction and experience.
+<br/>
+<div align="center">
+<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<img src="https://i.imgur.com/0a7pVSQ.png" alt="Logo" width="80" height="80">
+</a>
+<h3 align="center">Atomium AI</h3>
+<p align="center">
+Atomium AI is a sophisticated web application designed to help users generate high-quality YouTube videos from images and YouTube links. Built with Next.js and Go, it leverages large language models (LLMs) to ensure optimal content results for users. Additionally, Atomium AI offers an interactive experience where users can purchase tokens.
+<br/>
+<br/>
+<a href="https://atomiumai.com/landing/introduction"><strong>Getting started »</strong></a>
+<br/>
+<br/>
+<a href="https://atomiumai.com/landing/how-it-works">How it works .</a>  
+<a href="https://github.com/markjkaem/atomiumai/issues">Report Bug .</a>
+<a href="https://github.com/markjkaem/atomiumai/issues">Request Feature</a>
+</p>
+</div>
 
-## Features
-- **Video Generation:** Transform images and YouTube links into compelling videos.
-- **Advanced Content Optimization:** Employ LLMs to generate the best possible content for your needs.
-- **Token-Based Interactions:** Purchase tokens through Stripe to access various features and services.
-- **User-Friendly Interface:** Enjoy a sleek, intuitive interface for an optimal user experience.
+### Built With
 
-## Technology Stack
-- **Frontend:** Next.js
-- **Backend:** Go
-- **Machine Learning:** Large Language Models (LLMs)
-- **Payments:** Stripe
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-## Installation
+- [Next](https://nextjs.org)
+- [Go](https://go.dev/)
 
-### Prerequisites
-- Node.js (v18 or higher)
-- Go (v1.16 or higher)
+## Roadmap
+
+- [x] Add Youtube url to shorts
+- [x] Add Generated Images to shorts
+- [x] Add subtitles
+- [x] Add video effects and transitions
+- [x] Add subtitle file in srt format
+- [x] Add generated voiceover in multiple vocals
+- [ ] Add Youtube url to videos
+- [ ] Add Generated Images to videos
+
+
+## License
+
+Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
+
+## Contact
+
+Your Name - [@brokydev](https://twitter.com/brokydev) - mark.teekens@outlook.com
+
+Project Link: [Atomium AI](https://github.com/markjkaem/atomiumai)
