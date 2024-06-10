@@ -5,7 +5,7 @@
 </a>
 <h3 align="center">Atomium AI</h3>
 <p align="center">
-Atomium AI is a sophisticated web application designed to help users generate high-quality YouTube videos from images and YouTube links. Built with Next.js and Go, it leverages large language models (LLMs) to ensure optimal content results for users. Additionally, Atomium AI offers an interactive experience where users can purchase tokens.
+Atomium AI is a sophisticated web application designed to help users generate high-quality YouTube videos from images and YouTube links. Built with Next.js and Go, it leverages large language models (LLMs) to ensure optimal content results for users. Additionally, Atomium AI offers an interactive experience where users can purchase tokens!
 <br/>
 <br/>
 <a href="https://atomiumai.com/landing/introduction"><strong>Getting started »</strong></a>
