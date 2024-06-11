@@ -1,3 +1,4 @@
+*The majority of this code is hidden, this is information only.
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
