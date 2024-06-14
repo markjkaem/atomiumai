@@ -1,4 +1,4 @@
 package main
 func main(){
-  return "This is a go function"
+  fmt.Println("This project is hidden")
   }
